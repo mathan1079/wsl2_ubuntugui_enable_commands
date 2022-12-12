@@ -2,11 +2,7 @@
 
 ## In this tutorial you will learn to use ubuntu as a GUI interface on windows with the help of wsl 2
 
-##### If you at any point do not understand, then please check our the video of me doing this: [How to Install WSL2 Ubuntu Linux GUI (XFCE Desktop) on Windows 10. - YouTube](https://www.youtube.com/watch?v=rz8dahooUi8&feature=youtu.be)
-
-
-
-if you have not install WSL 2 yet, please execute the commands below:
+if you have not installed WSL 2 yet, please execute the commands below:
 
 `wsl --install`
 
